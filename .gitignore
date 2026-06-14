@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+logs/
+screenshots/
+*.zip
+push_to_github.py
+.gemini/
